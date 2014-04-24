@@ -1,0 +1,16 @@
+#map{
+    border:1px solid red;
+    margin-left: 50px;
+    background-color: #19ffff
+}
+
+#cotrolbar{
+    border: 1px solid red;
+    height: 150px;
+    width: 1800px;
+    margin-left: 50px;
+}
+
+#pirateship{
+    display:none;
+}
